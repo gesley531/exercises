@@ -1,8 +1,0 @@
-.idea/
-.gtt/
-venv/
-__pycache__/
-backup/
-docs/
-log/
-.env
