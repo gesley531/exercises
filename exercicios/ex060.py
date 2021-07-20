@@ -8,11 +8,11 @@ while c > 0:
     if c > 1:
         print(' x ', end='')
     else:
-        print(' = ')
+        print(' = ', end='')
 
     f = f * c
     c -= 1
 
-print(f'{f}', end='')
+print(f'{f}')
 
 # END
